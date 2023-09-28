@@ -9,7 +9,7 @@ const TeaList = ref([
     { id: 1, name: 'Tranquil Infusions', img: "https://media-cdn.tripadvisor.com/media/photo-s/28/91/1e/26/our-store.jpg" },
     { id: 2, name: 'SereniTea Corner', img: "https://cdn.shopify.com/s/files/1/0323/4735/7321/files/anotherstoryshopify_480x480.jpg?v=1582107567" },
     { id: 3, name: 'Steeped Harmony', img: "https://www.londonperfect.com/cdn-cgi/image/width=1680,height=1058,fit=cover,quality=80,format=auto,onerror=redirect,metadata=none/https://www.londonperfect.com/blog/wp-content/uploads/2018/08/TWG-Tea-Knightsbridge-3.jpg" },
-    { id: 4, name: 'Mystic Brew Haven', img: "https://cdn.shopify.com/s/files/1/0323/4735/7321/files/onenimmanshopshopify_480x480.jpg?v=1582107013" },
+    { id: 4, name: 'Mystic Brew Haven', img: "https://www.italianbark.com/wp-content/uploads/2015/03/Paperandtea_store_05-600x332.jpg" },
     { id: 5, name: 'Chai Serendipity', img: "https://images.adsttc.com/media/images/5d31/fd66/284d/d1df/cf00/0142/large_jpg/Spiritea-New_Practice_Studio-7.jpg?1563557172" },
     { id: 6, name: 'Chai Chat', img: "https://static.dezeen.com/uploads/2018/10/teatulia-russell-sage-interiors-retail-bars-london-uk_dezeen_2364_col_1.jpg" }
 ]);

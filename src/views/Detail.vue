@@ -14,6 +14,7 @@ import{ ref } from "vue";
 <template>
   <div class="container">
     <!-- Tea Products -->
+    <div class="fuck">
     <div class="bg-body-tertiary pt-5 text-center "
       v-for="(Tea, index) in TeaList"
       :key="index"
@@ -35,11 +36,23 @@ import{ ref } from "vue";
       </div>
     </div>
   </div>
+  </div>
   </template>
   
 
 
 <style>
+
+img{
+  width: 300px;
+  height: 300px;
+
+}
+
+.fuck{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+}
 .button {
  --color: #560bad;
  font-family: inherit;
@@ -90,7 +103,7 @@ import{ ref } from "vue";
 }
 
 .container {
-  justify-content: center;
+  
   max-width: 960px;
 }
 

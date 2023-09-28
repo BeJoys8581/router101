@@ -6,9 +6,9 @@
     <div class="container">
       <a class="navbar-brand" href="#page-top" style="color: white; display: flex; align-items: center;">
         <div class="img1">
-          <img src="https://images.emojiterra.com/google/android-pie/512px/1f375.png" alt=""> 
+          <img class="img1" src="https://images.emojiterra.com/google/android-pie/512px/1f375.png" alt=""> 
         </div>
-        &nbsp; Joys Tea
+        Joys Tea
       </a>
       <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
@@ -28,12 +28,10 @@
 
 <style>
   .img1 {
-    max-width: 7%;
-    display: flex;
-    align-items: center;
+    width: 30%;
+    height: 300%;
+
   }
 
-  .img1 img {
-    width: 100%;
-  }
+
 </style>
